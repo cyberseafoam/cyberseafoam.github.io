@@ -1,20 +1,36 @@
-# Connor Dindinger — Cybersecurity Portfolio
+# Connor Dindinger | Cybersecurity Portfolio
 
-Personal cybersecurity portfolio website, built with HTML and CSS for free hosting on GitHub Pages.
+Welcome to my personal portfolio! I'm a cybersecurity student at **Brigham Young University (BYU)** with an interest in network security, security analysis, and building practical tools with code.
 
-## Publish
+🌐 **Portfolio:** [cyberseafoam.github.io](https://cyberseafoam.github.io/)  
+💻 **GitHub:** [@cyberseafoam](https://github.com/cyberseafoam)
 
-1. Create a **public** repository on your personal GitHub account named `cyberseafoam.github.io`.
-2. Upload `index.html`, `styles.css`, and `favicon.svg` to the repository root.
-3. In **Settings → Pages**, set **Source** to **Deploy from a branch**, **Branch** to `main`, and **Folder** to `/(root)`; then save.
-4. Visit `https://cyberseafoam.github.io/` once GitHub Pages publishes the site.
+## About this website
 
-## Customize
+This portfolio highlights my technical interests, programming experience, and projects as I continue learning cybersecurity. It's designed to be simple, responsive, and easy to explore on desktop or mobile.
 
-- Edit `index.html` to update your introduction, interests, and project links.
-- Edit `styles.css` to adjust colors, typography, and spacing.
-- Add another project card when you have a new project to showcase.
+## Featured project
 
-The sample password-strength UI image is decorative and does not demonstrate actual runtime functionality. All project links go to the real source repository.
+### [Password Strength Analyzer](https://github.com/cyberseafoam/password-strength-analyzer)
 
-No build tools or paid services required.
+A Python project created for BYU CS 111 that evaluates sample passwords using a rules-based strength score and offers suggestions for improvement.
+
+- **Python** for password checks, scoring, and a command-line interface
+- **Streamlit** for an interactive web interface and visual checklist
+- **Security education** through explanations of common password weaknesses
+
+*The analyzer is an educational tool, not a guarantee of password security. Use sample passwords when testing.*
+
+## Built with
+
+- **HTML** for the website structure
+- **CSS** for styling and responsive layouts
+- **GitHub Pages** for free static website hosting
+
+## Explore
+
+Visit the [live portfolio](https://cyberseafoam.github.io/) to learn more about me and see my projects.
+
+---
+
+Thanks for visiting!
